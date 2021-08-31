@@ -1,0 +1,43 @@
+#headPhoto{
+    margin-left: 80px;
+}
+#h1Header{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 400%;
+    display: inline-block;
+    margin-left: 500px;
+    color: red;
+
+}
+header{
+    background-color: gray;
+}
+
+footer{
+    background-color: gray;
+    
+    color: red;
+    text-align: center;
+
+}
+
+footer #copyright{
+    padding-top: 10px;
+
+}
+
+#table {
+    border: 1px solid black;
+    font-size: 130%;
+    margin-left: 600px;
+    display: inline-block;
+    padding: 100px;
+    background-color: aquamarine;
+    
+}
+
+#form{
+    font-size: 200%;
+    
+}
